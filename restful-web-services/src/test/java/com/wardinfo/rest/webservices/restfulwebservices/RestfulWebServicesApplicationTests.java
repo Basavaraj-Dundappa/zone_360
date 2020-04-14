@@ -1,4 +1,4 @@
-package com.in28miunutes.rest.webservices.restfulwebservices;
+package com.wardinfo.rest.webservices.restfulwebservices;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
